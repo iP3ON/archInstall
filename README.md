@@ -44,3 +44,6 @@ chmod +x install.sh
 ./install.sh
 
 The script takes care of the rest (change anything if necessary).
+
+
+All credit for the script goes to a wonderful linux user, Ermanno Ferrari. I just copied his work and changed a few things. Go check out his youtube channel: https://www.youtube.com/channel/UCX_WM2O-X96URC5n66G-hvw
